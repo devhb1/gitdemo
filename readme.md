@@ -1,2 +1,2 @@
 readme from c2 !!!!!!!
-hhello from c6 main
+hello from c6 test 2 
